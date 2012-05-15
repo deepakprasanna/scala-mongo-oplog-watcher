@@ -1,0 +1,4 @@
+*.swp
+*.swo
+project/
+target/
