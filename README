@@ -1,0 +1,16 @@
+1. Install sbt
+2. Create a tunnel for mongo to analysis03 on port 27018
+
+And finally
+ 
+$sbt run
+[info] Set current project to Mongified (in build file:/home/deepak/scala-mongo-oplog-watcher/)
+
+Multiple main classes detected, select one to run:
+
+ [1] MongoAnalysisDB
+ [2] MongoOplog
+
+Enter number:2 
+
+//you ll see a big tail of the oplog 
